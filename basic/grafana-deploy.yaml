@@ -1,7 +1,7 @@
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
-  name: grafana-core
+  name: grafana
   namespace: monitor
   labels:
     app: grafana
